@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Languages/Project/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Languages/Project/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Project 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Project 1.0-SNAPSHOT API'
+Nagad
+C:\Languages\Project\src\main\java = 1701004422852
+C:\Languages\Project\target\site\apidocs\allclasses-index.html = 1707548491721
+C:\Languages\Project\target\site\apidocs\allpackages-index.html = 1707548491724
+C:\Languages\Project\target\site\apidocs\copy.svg = 1707548491775
+C:\Languages\Project\target\site\apidocs\element-list = 1707548491566
+C:\Languages\Project\target\site\apidocs\help-doc.html = 1707548491768
+C:\Languages\Project\target\site\apidocs\index-all.html = 1707548491753
+C:\Languages\Project\target\site\apidocs\index.html = 1707548491759
+C:\Languages\Project\target\site\apidocs\member-search-index.js = 1707548491732
+C:\Languages\Project\target\site\apidocs\module-search-index.js = 1707548491726
+C:\Languages\Project\target\site\apidocs\overview-tree.html = 1707548491696
+C:\Languages\Project\target\site\apidocs\package-search-index.js = 1707548491729
+C:\Languages\Project\target\site\apidocs\script.js = 1707548491774
+C:\Languages\Project\target\site\apidocs\search-page.js = 1707548491783
+C:\Languages\Project\target\site\apidocs\search.html = 1707548491756
+C:\Languages\Project\target\site\apidocs\search.js = 1707548491779
+C:\Languages\Project\target\site\apidocs\serialized-form.html = 1707548491619
+C:\Languages\Project\target\site\apidocs\stylesheet.css = 1707548491772
+C:\Languages\Project\target\site\apidocs\tag-search-index.js = 1707548491734
+C:\Languages\Project\target\site\apidocs\type-search-index.js = 1707548491731
