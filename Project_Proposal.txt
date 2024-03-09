@@ -1,0 +1,83 @@
+                                                                              Project Proposal: A Nagad Mobile Banking System
+ Introduction:
+Nagad Mobile Banking System is a Java GUI application that aims to provide a convenient and
+secure digital financial service for the customers of Nagad, a Bangladeshi mobile banking
+platform. The application allows the users to perform various transactions such as cash-in, cashout, send money, pay bills, recharge mobile, and more. The application uses Swing, a part of Java
+Foundation Classes (JFC), to create the graphical user interface components such as buttons, text
+fields, labels, menus, etc. The application follows the Model-View-Controller (MVC) design
+pattern, which separates the data, presentation, and logic layers of the system. The application
+is designed to be user-friendly, reliable, and secure.
+
+Requirements:
+Hardware requirements: None specific.
+Software requirements: Java Development Kit (JDK) 8 or higher, Java Swing & JavaFX etc.
+Functional requirements:
+❖ Code file should be able to Customer: Sign in with login and password.
+❖ Code file should be able to view balance, transfer money, pay bill.
+❖ Code file should be able to manage customers account, helpline and information.
+
+Design and Implementation:
+To design and implement your project, you need to follow some steps:
+➢ First, you need to decide on the requirements and specifications of your project, such as
+the features, functionalities, and user interface of your application.
+➢ Second, you need to choose the appropriate GUI library for your project, such as AWT,
+Swing, or JavaFX. Each library has its own advantages and disadvantages, so you need to
+compare them and select the one that suits your needs.
+➢ Third, you need to design the layout and appearance of your GUI components, such as
+the buttons, text fields, labels, etc. You can use different layout managers, such as
+BorderLayout, FlowLayout, or GridLayout, to arrange the components on the screen. You
+can also use NetBeans IDE, which is a graphical tool that helps you create and design GUI
+applications in Java.
+➢ Fourth, you need to write the code for the logic and functionality of your application, such
+as the event handling, cash-in, cash-out, send money, pay bills, recharge mobile, and
+more. You can also use Maven, which is a tool that helps you manage the dependencies,
+build, and deployment of your application.
+➢ Fifth, you need to test and debug your application, and make sure it works as expected.
+You can use various tools and techniques, such as breakpoints, logging, unit testing, and
+exception handling, to find and fix the errors in your code.
+
+Benefits of the project:
+The Nagad Mobile Banking System provides a platform for real-time personalized Money
+Management Insights, allows customers to conveniently and quickly pay any bill just by tapping
+several buttons, customers can check their bank account balances, perform financial
+transactions, deposit checks, and much more, avoiding the necessity to visit brick-and-mortar
+financial and banking facilities and facilitating collaboration and teamwork in a variety of settings
+etc. Some of the benefits of a mobile banking system project are:
+▪ Convenience: Customers can perform various banking operations anytime and
+anywhere, without visiting a branch or an ATM. They can also use features like
+biometric authentication, voice commands, and chatbots to interact with the system
+easily and securely.
+
+▪ Cost-effectiveness: Banks can reduce their operational costs and staff expenses by
+automating and streamlining their processes, such as account opening, transaction
+processing, data management, reporting, etc. They can also save money on paper,
+printing, and mailing by going digital.
+▪ Innovation: Banks can leverage the latest technologies, such as cloud, AI, blockchain,
+etc., to offer more value-added and differentiated services to their customers, such
+as personalized financial advice, instant payments, loyalty programs, etc. They can
+also collaborate with fintech partners and other external services to enhance their
+offerings and competitiveness.
+
+Challenges:
+The Nagad Mobile Banking System need to ensure high performance, stability, and usability of
+the services. It may also face competition and resistance from traditional banks and other
+financial institutions that may have more established reputations and customer bases.
+Limitations of the project:
+The Nagad Mobile Banking System is simple and does not have many features beyond it need to
+implement strong encryption, authentication, and verification mechanisms to protect the users’
+data and transactions. It may face technical issues, such as network failures, system errors, bugs,
+crashes and etc.
+
+Future work:
+The Nagad Mobile Banking System implementation is basic, but it can be extended to include
+additional features such as improved customer experience and satisfaction, increased
+operational efficiency and agility, enhanced innovation and competitiveness, user authentication
+and encryption to improve its functionality and security.
+Conclusion:
+A Nagad Mobile Banking system project is a software application that simulates the operations
+and services of a bank. It allows customers, tellers, and administrators to perform various tasks
+such as opening accounts, transferring money, viewing transactions, managing user, etc. A user
+interface that provides a friendly and secure way for users to interact with the system. A business
+logic layer that implements the rules and validations for the banking operations and services. A
+communication layer that enables the system to exchange data with other systems or services,
+such as payment gateways, credit bureaus, etc.
