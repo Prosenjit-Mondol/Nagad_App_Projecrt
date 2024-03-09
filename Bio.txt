@@ -1,0 +1,1 @@
+This is Nagad interface project that created by using java GUI. This project was created by only me in my level-1, semester-2 CCE-122 final lab exam. Sir was impressed to seen my project.
